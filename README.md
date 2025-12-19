@@ -2,7 +2,7 @@
 
 ## 
 
-## \- \[Video Showcase UI - Design PDF](https://github.com/mofumofuwander/video-showcase-ui/blob/main/Portfolio/Video%20Showcase%20UI.pdf)
+## &nbsp;\[Video Showcase UI - Design PDF](https://github.com/mofumofuwander/video-showcase-ui/blob/main/Portfolio/Video%20Showcase%20UI.pdf)
 
 ## 
 
