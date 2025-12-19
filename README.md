@@ -1,59 +1,62 @@
-# Video Showcase UI
+## \## ✨ Features
 
-A Netflix-like video browsing UI focused on smooth UX and interaction design.
+## 
 
-## 👀 What is this?
-This is a UI-focused web application inspired by modern streaming services.
-The goal of this project was not only to display content,
-but to create a **comfortable and intuitive browsing experience**.
+## \- Hero section with auto-sliding featured content
 
-## 🎯 Why I built this
-I wanted to challenge myself to build a UI that feels
-- smooth to scroll
-- clear to understand at a glance
-- pleasant to interact with
+## \- Progress-based indicator synced with slide timing
 
-Special attention was paid to timing, animation flow, and visual hierarchy.
+## \- Horizontal scroll rows inspired by Netflix UI
 
-## ✨ Key Features
-- Hero carousel with automatic slide progression
-- Pause-on-hover behavior to respect user attention
-- Progress-based slide indicators
-- Category-based horizontal video rows
-- Subtle hover effects and shadows for depth
-- Lazy loading for performance-conscious rendering
+## \- Smooth hover interactions and keyboard navigation
 
-## 🧠 What I focused on
-- Managing animation state without breaking user experience
-- Preventing unnecessary resets during hover interactions
-- Keeping the UI expressive without being noisy
-- Designing components that feel responsive and calm
+## \- Responsive layout (desktop-first)
 
-## 🛠 Tech Stack
-- Next.js (App Router)
-- React
-- TypeScript
-- Tailwind CSS
-- Supabase (data source)
+## 
 
-## 📸 Screenshots
-(Coming soon)
+## \## 🖼 UI Screenshots
 
-## 🚀 Local Setup
-```bash
-npm install
-npm run dev
+## 
 
-## 👤 About Me (Short)
-I focus on building interfaces that feel natural to use.
-Rather than adding excessive effects,
-I value timing, clarity, and user comfort.
+## \### Hero Section
 
-I enjoy refining small details until the interaction feels right.
+## !\[Hero](./Portfolio/image/hero-section.png)
 
-## 💼 What I can contribute
-- UI implementation with attention to user behavior
-- Interaction design focused on comfort and flow
-- Iterative improvement through observation and testing
-- Clear communication through visual structure
+## 
+
+## \### Slide Indicator
+
+## !\[Indicator](./Portfolio/image/hero-indicator.png)
+
+## 
+
+## \### Horizontal Scroll Row
+
+## !\[Row](./Portfolio/image/horizontal-row.png)
+
+## 
+
+## \## 📄 UI Design Overview (PDF)
+
+## 
+
+## A visual document explaining layout structure and UI intent.
+
+## 
+
+## 👉 \[View UI Design PDF](./Portfolio/Video%20Showcase%20UI.pdf)
+
+## 
+
+## \## 🛠 Tech Stack
+
+## 
+
+## \- Next.js (App Router)
+
+## \- React
+
+## \- Tailwind CSS
+
+
 
