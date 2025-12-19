@@ -1,18 +1,10 @@
-## \## ✨ Features
+## \## 📄 Design Document
 
 ## 
 
-## \- Hero section with auto-sliding featured content
+## \- \[Video Showcase UI – Design PDF](./Portfolio/Video%20Showcase%20UI.pdf)
 
-## \- Progress-based indicator synced with slide timing
 
-## \- Horizontal scroll rows inspired by Netflix UI
-
-## \- Smooth hover interactions and keyboard navigation
-
-## \- Responsive layout (desktop-first)
-
-## 
 
 ## \## 🖼 UI Screenshots
 
@@ -20,43 +12,25 @@
 
 ## \### Hero Section
 
-## !\[Hero](./Portfolio/image/hero-section.png)
+## !\[Hero Section](./Portfolio/image/hero-section.png)
 
 ## 
 
-## \### Slide Indicator
+## \### Hero Indicator
 
-## !\[Indicator](./Portfolio/image/hero-indicator.png)
+## !\[Hero Indicator](./Portfolio/image/hero-indicator.png)
 
 ## 
 
 ## \### Horizontal Scroll Row
 
-## !\[Row](./Portfolio/image/horizontal-row.png)
+## !\[Horizontal Row](./Portfolio/image/horizontal-row.png)
 
 ## 
 
-## \## 📄 UI Design Overview (PDF)
+## \### Overall UI
 
-## 
+## !\[Overview UI](./Portfolio/image/overview-ui.png)
 
-## A visual document explaining layout structure and UI intent.
-
-## 
-
-## 👉 \[View UI Design PDF](./Portfolio/Video%20Showcase%20UI.pdf)
-
-## 
-
-## \## 🛠 Tech Stack
-
-## 
-
-## \- Next.js (App Router)
-
-## \- React
-
-## \- Tailwind CSS
-
-
+## !\[Overview UI 2](./Portfolio/image/overview-ui2.png)
 
